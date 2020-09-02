@@ -1,6 +1,6 @@
 # Woocommerce Chargeback Order Status #
 
-**Contributors:** artesdev  
+**Contributors:** artesdevel  
 **Tags:** woocommerce, order status, custom status, chargeback  
 **Requires at least:** 4.9  
 **Tested up to:** 5.5.1   
