@@ -27,7 +27,6 @@ Adds a 'Chargeback' order status for Woocommerce orders in order to accurately r
 ## Screenshot ##
 
 ![Orders page view of Chargeback order](https://github.com/artes-dev/chargeback-order-status-for-woocommerce/blob/master/assets/screenshot-1.png?raw=true)
-Orders page view
 
 ## Changelog ##
 
