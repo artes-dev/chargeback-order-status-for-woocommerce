@@ -1,4 +1,4 @@
-# Coocommerce Chargeback Order Status #
+# Woocommerce Chargeback Order Status #
 
 **Contributors:** artesdev  
 **Tags:** woocommerce, order status, custom status, chargeback  
@@ -9,7 +9,7 @@
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/old-licenses/gpl-2.0.html  
 
-Adds a 'Chargeback' order status to in order to accurately record net sales including chargebacks.
+Adds a 'Chargeback' order status in order to accurately record net sales including chargebacks.
 
 ## Description ##
 
