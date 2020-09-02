@@ -1,4 +1,4 @@
-# WP Crontrol #
+# Coocommerce Chargeback Order Status #
 
 **Contributors:** artesdev  
 **Tags:** woocommerce, order status, custom status, chargeback  
@@ -23,12 +23,6 @@ Adds a 'Chargeback' order status for Woocommerce orders in order to accurately r
 
 1. Upload `woocommerce-chargeback-order-status` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-
-## Screenshots ##
-
-1. New cron events can be added, modified, deleted, and executed<br>![](.wordpress-org/screenshot-1.png)
-
-2. New cron schedules can be added, giving plugin developers more options when scheduling events<br>![](.wordpress-org/screenshot-2.png)
 
 ## Changelog ##
 
