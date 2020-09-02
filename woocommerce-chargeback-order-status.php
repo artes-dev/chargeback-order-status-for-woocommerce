@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       Woocommerce Chargeback Order Status
- * Plugin URI:        https://github.com/artesdev/woocommerce-chargeback-order-status
+ * Plugin URI:        https://github.com/artes-dev/woocommerce-chargeback-order-status
  * Description:       Adds a custom order status 'Chargeback' to accurately record net sales including chargebacks.
  * Version:           1.0.0
  * Author:            Robert Artes
- * Author URI:        https://github.com/artesdev
+ * Author URI:        https://github.com/artes-dev
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       woocommerce-chargeback-order-status
