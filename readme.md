@@ -21,7 +21,7 @@ Adds a 'Chargeback' order status for Woocommerce orders in order to accurately r
   
 ## Installation ##
 
-1. Upload `woocommerce-chargeback-order-status` to the `/wp-content/plugins/` directory
+1. Upload `chargeback-order-status-for-woocommerce` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Screenshot ##
