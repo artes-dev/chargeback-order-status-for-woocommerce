@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name:       Woocommerce Chargeback Order Status
+ * Plugin Name:       Chargeback Order Status for Woocommerce
  * Plugin URI:        https://github.com/artes-dev/woocommerce-chargeback-order-status
  * Description:       Adds a custom order status 'Chargeback' to accurately record net sales including chargebacks.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Robert Artes
  * Author URI:        https://github.com/artes-dev
  * License:           GPL-2.0+
@@ -64,7 +64,7 @@ function wccos_refund_chargeback( $order_id ) {
 	wc_create_refund(
 		array(
 			'amount'     => $order->get_total(),
-			'reason'     => __( 'Manual record of order chargeback.', 'woocommerce' ),
+			'reason'     => __( 'Manual record of transaction chargeback.', 'woocommerce' ),
 			'order_id'   => $order_id,
 			'line_items' => array(),
 		)

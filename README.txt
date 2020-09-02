@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== Chargeback Order Status for Woocommerce ===
 Contributors: artesdevel
 Donate link: https://github.com/artes-dev
 Tags: woocommerce, order status, custom status, chargeback
 Requires at least: 3.0.1
 Tested up to: 5.5.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ Adds a 'Chargeback' order status for Woocommerce orders in order to accurately r
 
 == Installation ==
 
-1. Upload `woocommerce-chargeback-order-status.php` to the `/wp-content/plugins/` directory
+1. Upload `chargeback-order-status-for-woocommerce` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
